@@ -1,1 +1,3 @@
 FROM Debian:Buster
+
+COPY . .
